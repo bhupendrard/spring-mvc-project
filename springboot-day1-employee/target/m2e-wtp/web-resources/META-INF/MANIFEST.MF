@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bhupendraramdam
+Build-Jdk: 15.0.1
+Implementation-Title: springboot-day1-employee
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: boot-2
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-day1-employee
+Created-By: Maven Integration for Eclipse
+
