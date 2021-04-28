@@ -8,7 +8,7 @@ public class MaInEmployee {
 	
 	
 	public static void main(String[] args) {
-		
+		//this is for running application
 		SpringApplication.run(MaInEmployee.class, args);
 
 	}
